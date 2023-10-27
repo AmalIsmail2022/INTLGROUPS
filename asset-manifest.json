@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/INTLGROUPS/static/css/main.c25e958e.css",
+    "main.js": "/INTLGROUPS/static/js/main.48d247aa.js",
+    "static/media/our-business-strategy.png": "/INTLGROUPS/static/media/our-business-strategy.138c7921a7bf9ba6eb15.png",
+    "static/media/lp.jpg": "/INTLGROUPS/static/media/lp.7ebf3586ed2ee2392805.jpg",
+    "static/media/startup-business-teamwork-meeting-conceptt.png": "/INTLGROUPS/static/media/startup-business-teamwork-meeting-conceptt.0ba9f8625311bd97bf1c.png",
+    "static/media/arabian-saudi-businessman.png": "/INTLGROUPS/static/media/arabian-saudi-businessman.3cee242940cd72ee6c0b.png",
+    "static/media/our-businessx-strategy.png": "/INTLGROUPS/static/media/our-businessx-strategy.4b67f6ce87a2a4c53c8c.png",
+    "static/media/arabic-man-traditional-wear-smiling-prsenting-with-arm-hand-standing-white-wall.png": "/INTLGROUPS/static/media/arabic-man-traditional-wear-smiling-prsenting-with-arm-hand-standing-white-wall.4fc13d749e7c9c3520a6.png",
+    "static/media/startupx-business-teamwork-meeting-concept.png": "/INTLGROUPS/static/media/startupx-business-teamwork-meeting-concept.ce9d67cbba0eeea20a7e.png",
+    "static/media/startup-business-teamwork-meeting-concept.png": "/INTLGROUPS/static/media/startup-business-teamwork-meeting-concept.216e19579eca25c3c8d2.png",
+    "static/media/Group 8819.jpg": "/INTLGROUPS/static/media/Group 8819.fffa032610b0a3bbe8be.jpg",
+    "static/media/smiling-portrait-young-businessman-discussing-graph-with-his-colleague-workplace.png": "/INTLGROUPS/static/media/smiling-portrait-young-businessman-discussing-graph-with-his-colleague-workplace.5b14323ec9d37dc5cf4f.png",
+    "static/media/comp.jpg": "/INTLGROUPS/static/media/comp.c21c13d015788b48a07b.jpg",
+    "static/media/sitemap.jpg": "/INTLGROUPS/static/media/sitemap.4adcd7e2b8d420bc15f9.jpg",
+    "static/media/about.jpg": "/INTLGROUPS/static/media/about.ffb80b40e343fd7941d3.jpg",
+    "static/media/serv.jpg": "/INTLGROUPS/static/media/serv.27a4092455d338544093.jpg",
+    "static/media/blog.jpg": "/INTLGROUPS/static/media/blog.fe154199d18047f32abd.jpg",
+    "static/media/contactus.jpg": "/INTLGROUPS/static/media/contactus.5e33e36b51a3adcf4736.jpg",
+    "static/media/pic1-1200.png": "/INTLGROUPS/static/media/pic1-1200.a93f2a2a30765f4a2924.png",
+    "index.html": "/INTLGROUPS/index.html",
+    "main.c25e958e.css.map": "/INTLGROUPS/static/css/main.c25e958e.css.map",
+    "main.48d247aa.js.map": "/INTLGROUPS/static/js/main.48d247aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25e958e.css",
+    "static/js/main.48d247aa.js"
+  ]
+}
