@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/INTLGROUPS/static/css/main.c25e958e.css",
-    "main.js": "/INTLGROUPS/static/js/main.6895a835.js",
+    "main.css": "/INTLGROUPS/static/css/main.44548f4c.css",
+    "main.js": "/INTLGROUPS/static/js/main.899d834b.js",
     "static/media/our-business-strategy.png": "/INTLGROUPS/static/media/our-business-strategy.138c7921a7bf9ba6eb15.png",
     "static/media/lp.jpg": "/INTLGROUPS/static/media/lp.7ebf3586ed2ee2392805.jpg",
     "static/media/startup-business-teamwork-meeting-conceptt.png": "/INTLGROUPS/static/media/startup-business-teamwork-meeting-conceptt.0ba9f8625311bd97bf1c.png",
@@ -20,11 +20,11 @@
     "static/media/contactus.jpg": "/INTLGROUPS/static/media/contactus.5e33e36b51a3adcf4736.jpg",
     "static/media/pic1-1200.png": "/INTLGROUPS/static/media/pic1-1200.a93f2a2a30765f4a2924.png",
     "index.html": "/INTLGROUPS/index.html",
-    "main.c25e958e.css.map": "/INTLGROUPS/static/css/main.c25e958e.css.map",
-    "main.6895a835.js.map": "/INTLGROUPS/static/js/main.6895a835.js.map"
+    "main.44548f4c.css.map": "/INTLGROUPS/static/css/main.44548f4c.css.map",
+    "main.899d834b.js.map": "/INTLGROUPS/static/js/main.899d834b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c25e958e.css",
-    "static/js/main.6895a835.js"
+    "static/css/main.44548f4c.css",
+    "static/js/main.899d834b.js"
   ]
 }
